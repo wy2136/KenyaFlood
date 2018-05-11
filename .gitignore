@@ -1,2 +1,4 @@
 *.nc
 .ipynb_checkpoints
+!FLOR_1860_prcp_climMA.nc
+!FLOR_2000_prcp_climMA.nc
